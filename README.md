@@ -2,6 +2,10 @@
 
 A secure Telegram bot designed for Forex and Crypto agencies to automate VIP group access verification and onboarding.
 
+## Current Version
+
+`v2.3.1`
+
 ---
 
 ## Bot Demo
